@@ -1,4 +1,5 @@
-﻿int enternumber = int.Parse(Console.ReadLine());
+﻿Console.WriteLine("ENTER NUMBER:");
+int enternumber = int.Parse(Console.ReadLine());
 double ascii=0;
 int i = 0;
 
